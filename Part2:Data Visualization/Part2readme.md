@@ -1,4 +1,5 @@
-## Link to the dashboard created on tableau:
+
+**Link to the dashboard created on tableau:**
 
 https://public.tableau.com/app/profile/yahui2227/viz/CovidDataVisualization_16342105897040/Dashboard1?publish=yes
 
@@ -11,7 +12,7 @@ As Tableau public does not connect with database. What was done here was to:
 2.import excel to Tableau public to have data visualized.
 
 
-### Extra notes from project implementation:
+**Extra notes from project implementation:**
 
 Duing the data tranformation of quried data results from sql to tableasu. All the "Null" were replaced by 0, so that the columns would be assigned as numeric when data tables were imported into Tableau.
 
