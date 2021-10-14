@@ -1,3 +1,7 @@
+## Link to the dashboard created on tableau:
+
+https://public.tableau.com/app/profile/yahui2227/viz/CovidDataVisualization_16342105897040/Dashboard1?publish=yes
+
 Tableau Public is used to visualize the query result from sql.
 
 As Tableau public does not connect with database. What was done here was to: 
