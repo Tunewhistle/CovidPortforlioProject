@@ -24,7 +24,7 @@ Folder name: Part2:Data Visualization
 
 SQL file: Queries used for Tableau Project
 
-**Link to the dashboard created on tableau:**
+### Link to the dashboard created on tableau:
 
 https://public.tableau.com/app/profile/yahui2227/viz/CovidDataVisualization_16342105897040/Dashboard1?publish=yes 
 
